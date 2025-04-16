@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: "Основное",
         items: [
+          { text: 'Правила', link: '/main/rules'},
           { text: 'Как попасть на сервер?', link: '/main/play-guide'},
           { text: 'Ники игроков', link: '/main/nicknames'},
           { text: 'Подписки', link: '/main/subscriptions'}
