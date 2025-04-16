@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Modoru"
-  text: "крутой сервер"
-  tagline: привет1251251
+  name: "MODORU"
+  text: ""
+  tagline: Википедия
   actions:
     - theme: brand
-      text: Начало
-      link: /markdown-examples
+      text: Введение
+      link: /introduction
     - theme: alt
-      text: Механики
-      link: /api-examples
+      text: Глобальные механики
+      link: /global/commands
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Механики
+    details: На сервере вы встретитесь с интересными механиками, разработанные лично нами
+  - title: Оптимизация
+    details: Весь сервер работает только на наших разработках, и оптимизирован до идеала для приятной игры.
+  - title: Ивенты
+    details: На нашем сервере вы сможете поучаствовать в вентах, проводимые как игроками, так и администрацией!
 ---
 
