@@ -21,7 +21,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Домой', link: '/' },
-      { text: 'Введение', link: '/main/play-guide' }
+      { text: 'Введение', link: 'introduction.md' }
     ],
 
     sidebar: [
@@ -52,13 +52,8 @@ export default defineConfig({
           { text: 'Чат', link: '/custom/chat'},
           { text: 'Напитки', link: '/custom/brewing'},
           { text: 'Изменения жителей', link: '/custom/villagers'},
-          { text: 'Косметика', link: '/custom/cosmetics'}
-        ]
-      },
-      {
-        text: "Остальные механики",
-        items: [
-          { text: 'Остальные механики', link: '/misc/misc'},
+          { text: 'Косметика', link: '/custom/cosmetics'},
+          { text: 'Остальные механики', link: '/custom/misc'},
         ]
       }
     ],
