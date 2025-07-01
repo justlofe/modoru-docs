@@ -3,5 +3,5 @@
 
 ### Редактирование
 - Установите [NodeJS](https://nodejs.org)
-- Откройте проект, установите vitepress написав в терминал `npm add -D vitepress`, а затем напишите `npm run docs:dev`
+- Откройте проект, установите vitepress написав в терминал `npm add -D vitepress`, а затем запустите vitepress написав `npm run docs:dev`
 - Редактируйте, после этого отправляйте коммит/PR
