@@ -50,6 +50,7 @@ export default defineConfig({
         text: "Кастомные механики",
         items: [
           { text: 'Чат', link: '/custom/chat'},
+          { text: 'Группы', link: '/custom/groups'},
           { text: 'Напитки', link: '/custom/brewing'},
           { text: 'Изменения жителей', link: '/custom/villagers'},
           { text: 'Косметика', link: '/custom/cosmetics'},
